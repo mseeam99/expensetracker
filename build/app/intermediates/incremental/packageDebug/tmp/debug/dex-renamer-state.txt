@@ -1,0 +1,4 @@
+#Sat Jun 03 19:12:51 BDT 2023
+base.0=/Users/mohammadseeam/Desktop/expensetracker/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
