@@ -1,16 +1,24 @@
 # expensetracker
 
-A new Flutter project.
+A Flutter project which allows user to list expenses and see cost.
 
-## Getting Started
+<img width="323" alt="1" src="https://github.com/mseeam/expensetracker/assets/112004640/b7a901f1-e63a-4bf5-8397-9fbd992540ae">
 
-This project is a starting point for a Flutter application.
+<img width="310" alt="2" src="https://github.com/mseeam/expensetracker/assets/112004640/43be0327-2a5f-4e28-aaa4-e323335d9f06">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="310" alt="3" src="https://github.com/mseeam/expensetracker/assets/112004640/94cd6472-6a70-4449-998c-025d14e8e5a9">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="325" alt="4" src="https://github.com/mseeam/expensetracker/assets/112004640/9d58ef8f-dbee-4dfa-a9ae-27c6364a5e05">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="314" alt="5" src="https://github.com/mseeam/expensetracker/assets/112004640/1198a140-ef2a-4899-ba75-61e58bf1d4cc">
+
+<img width="321" alt="6" src="https://github.com/mseeam/expensetracker/assets/112004640/12144c32-9a7b-4857-a450-8c66a595586c">
+
+<img width="325" alt="7" src="https://github.com/mseeam/expensetracker/assets/112004640/d2794e3d-b552-4edb-83dc-3dc510341fca">
+
+<img width="258" alt="8" src="https://github.com/mseeam/expensetracker/assets/112004640/06125214-5c47-4f4a-9fca-167a586d37ef">
+
+<img width="258" alt="9" src="https://github.com/mseeam/expensetracker/assets/112004640/497b1f99-df7d-4e1a-942f-7afc8672c7e1">
+
+
+
