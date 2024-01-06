@@ -1,6 +1,6 @@
 # expensetracker
 
-A Flutter project which allows user to list expenses and see cost.
+A Flutter project which allows user to list expenses of item and track cost.
 
 <img width="323" alt="1" src="https://github.com/mseeam/expensetracker/assets/112004640/b7a901f1-e63a-4bf5-8397-9fbd992540ae">
 
